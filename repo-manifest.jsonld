@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/gget/commit/64d10bf03adfc3ede70aec467bd18e2e7a2ca178",
       "git:hexsha": "64d10bf03adfc3ede70aec467bd18e2e7a2ca178",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scverse/gget/commit/6d28a440adc64274909212797046244edbd76479",
